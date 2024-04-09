@@ -3,3 +3,5 @@ My name is Hyungjoo Han
 I was born in South Korea but moved to Maryland when I was 5 years old.
 I originally pursued flute/music performance, but changed my career path to statistics at UCLA.
 I will hopefully graduate with a B.S. in Statistics and Data Science in 2025.
+
+My future goal is to be a data scientist.
